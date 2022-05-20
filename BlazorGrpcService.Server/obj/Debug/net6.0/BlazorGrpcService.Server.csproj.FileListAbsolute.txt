@@ -1,0 +1,6 @@
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.csproj.AssemblyReference.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.AssemblyInfoInputs.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.AssemblyInfo.cs
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.csproj.CoreCompileInputs.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcService.Server\obj\Debug\net6.0\BlazorGrpcService.Server.MvcApplicationPartsAssemblyInfo.cache

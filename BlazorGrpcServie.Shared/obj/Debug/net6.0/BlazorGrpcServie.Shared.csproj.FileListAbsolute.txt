@@ -1,0 +1,12 @@
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\bin\Debug\net6.0\BlazorGrpcServie.Shared.deps.json
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\bin\Debug\net6.0\BlazorGrpcServie.Shared.dll
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\bin\Debug\net6.0\BlazorGrpcServie.Shared.pdb
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.csproj.AssemblyReference.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.AssemblyInfoInputs.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.AssemblyInfo.cs
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.csproj.CoreCompileInputs.cache
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.dll
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\refint\BlazorGrpcServie.Shared.dll
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\BlazorGrpcServie.Shared.pdb
+D:\PROJECT 2022\gRPC-demo\BlazorGrpcServie.Shared\obj\Debug\net6.0\ref\BlazorGrpcServie.Shared.dll
